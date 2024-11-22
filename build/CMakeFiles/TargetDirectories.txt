@@ -1,0 +1,3 @@
+/home/calbee/robomaster/TJURM-MineShaftIdentify/build/CMakeFiles/tjurm-mineshaftidentify.dir
+/home/calbee/robomaster/TJURM-MineShaftIdentify/build/CMakeFiles/edit_cache.dir
+/home/calbee/robomaster/TJURM-MineShaftIdentify/build/CMakeFiles/rebuild_cache.dir
